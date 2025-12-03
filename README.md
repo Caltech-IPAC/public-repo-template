@@ -1,6 +1,6 @@
 # public-repo-template
 
-https://github.com/IPAC-SW/public-repo-template is a template for IPAC repos that are intended to be made public.
+[https://github.com/Caltech-IPAC/public-repo-template](https://github.com/Caltech-IPAC/public-repo-template) is a template for IPAC repos that are intended to be made public.
 
 ## Usage
 
